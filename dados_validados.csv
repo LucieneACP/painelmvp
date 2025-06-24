@@ -1,0 +1,301 @@
+Nome,Tipo de Reclamação,Procedimento,Tipo de Atendimento,Data da Solicitação,Data do Atendimento,Status da Reclamação,Cobertura ANS,Validação de Prazo,Erro de Cobertura
+Yan da Rocha,Procedimento negado,Exame de sangue,Urgência,2025-05-07,2025-06-09,Aberto,Obrigatória,Fora do prazo,Não
+Anthony Casa Grande,Erro de reembolso,Fisioterapia ortopédica,Urgência,2025-04-22,2025-05-04,Aberto,Obrigatória,Fora do prazo,Não
+Diego Ferreira,Cobertura recusada,Consulta com clínico geral,Urgência,2025-06-03,2025-06-04,Aberto,Obrigatória,Dentro do prazo,Não
+Isabella Nogueira,Cobertura recusada,Ressonância magnética,Urgência,2025-05-17,2025-05-26,Em análise,Obrigatória,Dentro do prazo,Não
+Eloá Vieira,Cobrança indevida,Consulta com clínico geral,Urgência,2025-05-02,2025-06-01,Resolvido,Obrigatória,Fora do prazo,Não
+Sr. Lucas Gabriel Oliveira,Cobrança indevida,Terapia ocupacional,Urgência,2025-04-07,2025-04-21,Em análise,Obrigatória,Fora do prazo,Não
+Davi Ribeiro,Cobertura recusada,Terapia ocupacional,Urgência,2025-04-18,2025-04-30,Aberto,Obrigatória,Fora do prazo,Não
+Ian Pires,Cobrança indevida,Consulta com nutricionista,Urgência,2025-05-16,2025-06-15,Em análise,Obrigatória,Fora do prazo,Não
+Arthur Miguel Monteiro,Demora na autorização,Consulta com clínico geral,Eletivo,2025-05-09,2025-05-27,Em análise,Obrigatória,Fora do prazo,Não
+Maria Clara Cirino,Procedimento negado,Ressonância magnética,Urgência,2025-06-05,2025-06-12,Aberto,Obrigatória,Dentro do prazo,Não
+Maya Siqueira,Demora na autorização,Consulta com clínico geral,Urgência,2025-04-12,2025-04-16,Resolvido,Obrigatória,Dentro do prazo,Não
+Sofia Pinto,Cobrança indevida,Terapia ocupacional,Eletivo,2025-06-15,2025-06-18,Resolvido,Obrigatória,Dentro do prazo,Não
+Dr. Henrique Alves,Cobertura recusada,Terapia ocupacional,Urgência,2025-05-30,2025-06-17,Resolvido,Obrigatória,Fora do prazo,Não
+Heitor Costela,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-05-26,2025-06-09,Resolvido,Opcional,Dentro do prazo,Sim
+Isadora Leão,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-03-26,2025-04-06,Em análise,Opcional,Dentro do prazo,Sim
+Dr. Pietro Freitas,Demora na autorização,Cirurgia plástica estética,Eletivo,2025-04-14,2025-05-07,Resolvido,Opcional,Dentro do prazo,Sim
+Erick Siqueira,Demora na autorização,Exame de sangue,Urgência,2025-05-13,2025-05-24,Em análise,Obrigatória,Fora do prazo,Não
+Samuel Fogaça,Erro de reembolso,Consulta com nutricionista,Urgência,2025-04-28,2025-05-20,Em análise,Obrigatória,Fora do prazo,Não
+Ana Luiza Melo,Demora na autorização,Exame de sangue,Eletivo,2025-04-01,2025-05-03,Aberto,Obrigatória,Fora do prazo,Não
+Ester Sampaio,Erro de reembolso,Transplante capilar,Urgência,2025-04-03,2025-04-19,Aberto,Não obrigatória,Dentro do prazo,Sim
+Enzo Fogaça,Cobertura recusada,Consulta com nutricionista,Eletivo,2025-05-23,2025-05-29,Resolvido,Obrigatória,Dentro do prazo,Não
+Anthony Cunha,Cobertura recusada,Consulta com clínico geral,Urgência,2025-05-24,2025-06-22,Em análise,Obrigatória,Fora do prazo,Não
+Raul Brito,Erro de reembolso,Exame de sangue,Urgência,2025-05-20,2025-06-06,Em análise,Obrigatória,Fora do prazo,Não
+Dr. Vinícius Sá,Cobrança indevida,Transplante capilar,Urgência,2025-05-14,2025-05-20,Em análise,Não obrigatória,Dentro do prazo,Sim
+Antony Siqueira,Erro de reembolso,Fisioterapia ortopédica,Eletivo,2025-04-21,2025-05-26,Em análise,Obrigatória,Fora do prazo,Não
+Hadassa Nascimento,Cobertura recusada,Terapia ocupacional,Eletivo,2025-05-18,2025-05-23,Aberto,Obrigatória,Dentro do prazo,Não
+Emanuelly Marques,Procedimento negado,Terapia ocupacional,Urgência,2025-06-13,2025-07-07,Resolvido,Obrigatória,Fora do prazo,Não
+Zoe Farias,Cobertura recusada,Exame de sangue,Urgência,2025-04-29,2025-05-23,Aberto,Obrigatória,Fora do prazo,Não
+José Miguel Campos,Demora na autorização,Terapia ocupacional,Eletivo,2025-03-25,2025-03-28,Aberto,Obrigatória,Dentro do prazo,Não
+Rebeca Moura,Erro de reembolso,Ressonância magnética,Eletivo,2025-04-25,2025-05-22,Aberto,Obrigatória,Fora do prazo,Não
+Theo Melo,Erro de reembolso,Exame de sangue,Eletivo,2025-06-21,2025-07-19,Em análise,Obrigatória,Fora do prazo,Não
+Dra. Rebeca Araújo,Demora na autorização,Fisioterapia ortopédica,Eletivo,2025-06-04,2025-06-19,Aberto,Obrigatória,Fora do prazo,Não
+Pietro da Paz,Procedimento negado,Exame de sangue,Urgência,2025-04-08,2025-04-12,Em análise,Obrigatória,Fora do prazo,Não
+Ana Clara Fogaça,Erro de reembolso,Fisioterapia ortopédica,Eletivo,2025-06-08,2025-07-13,Aberto,Obrigatória,Fora do prazo,Não
+Maysa Nascimento,Cobertura recusada,Transplante capilar,Eletivo,2025-04-24,2025-05-17,Em análise,Não obrigatória,Dentro do prazo,Sim
+Bruno Gonçalves,Cobertura recusada,Fisioterapia ortopédica,Urgência,2025-06-14,2025-06-29,Aberto,Obrigatória,Fora do prazo,Não
+Cecília Brito,Cobertura recusada,Consulta com nutricionista,Eletivo,2025-05-25,2025-06-20,Resolvido,Obrigatória,Fora do prazo,Não
+Luiz Henrique Aparecida,Cobertura recusada,Terapia ocupacional,Urgência,2025-04-30,2025-06-07,Aberto,Obrigatória,Fora do prazo,Não
+Rafaela Cassiano,Procedimento negado,Cirurgia plástica estética,Urgência,2025-06-04,2025-06-14,Aberto,Opcional,Dentro do prazo,Sim
+Henry Vieira,Cobertura recusada,Terapia ocupacional,Urgência,2025-04-08,2025-04-29,Em análise,Obrigatória,Fora do prazo,Não
+Anna Liz da Cruz,Cobertura recusada,Terapia ocupacional,Eletivo,2025-04-06,2025-04-09,Aberto,Obrigatória,Dentro do prazo,Não
+Sr. Dante Andrade,Demora na autorização,Ressonância magnética,Urgência,2025-06-19,2025-07-16,Em análise,Obrigatória,Fora do prazo,Não
+André Pacheco,Cobertura recusada,Consulta com clínico geral,Urgência,2025-04-04,2025-04-11,Aberto,Obrigatória,Dentro do prazo,Não
+Pietra Sá,Procedimento negado,Consulta com clínico geral,Urgência,2025-03-28,2025-04-01,Resolvido,Obrigatória,Dentro do prazo,Não
+João Miguel Rezende,Procedimento negado,Consulta com nutricionista,Eletivo,2025-06-04,2025-07-09,Aberto,Obrigatória,Fora do prazo,Não
+Alícia Siqueira,Demora na autorização,Fisioterapia ortopédica,Eletivo,2025-06-18,2025-07-20,Em análise,Obrigatória,Fora do prazo,Não
+Josué Moraes,Demora na autorização,Consulta com nutricionista,Eletivo,2025-05-29,2025-06-19,Resolvido,Obrigatória,Fora do prazo,Não
+Camila Fonseca,Cobrança indevida,Fisioterapia ortopédica,Urgência,2025-03-30,2025-04-06,Em análise,Obrigatória,Dentro do prazo,Não
+Marcela Cavalcanti,Cobertura recusada,Exame de sangue,Eletivo,2025-03-29,2025-04-20,Em análise,Obrigatória,Fora do prazo,Não
+Srta. Kamilly Cavalcanti,Procedimento negado,Consulta com clínico geral,Eletivo,2025-05-17,2025-06-17,Em análise,Obrigatória,Fora do prazo,Não
+Dra. Manuela Lima,Demora na autorização,Cirurgia plástica estética,Eletivo,2025-05-21,2025-06-16,Resolvido,Opcional,Dentro do prazo,Sim
+Lucca Teixeira,Demora na autorização,Consulta com clínico geral,Urgência,2025-04-17,2025-05-07,Aberto,Obrigatória,Fora do prazo,Não
+Ana Lívia Cunha,Erro de reembolso,Terapia ocupacional,Eletivo,2025-05-12,2025-06-12,Resolvido,Obrigatória,Fora do prazo,Não
+Dr. Arthur Miguel Costela,Demora na autorização,Fisioterapia ortopédica,Eletivo,2025-04-19,2025-05-01,Em análise,Obrigatória,Fora do prazo,Não
+Maria Cecília Castro,Cobertura recusada,Ressonância magnética,Urgência,2025-04-06,2025-04-30,Em análise,Obrigatória,Fora do prazo,Não
+Gustavo Henrique Ramos,Erro de reembolso,Exame de sangue,Eletivo,2025-04-04,2025-05-02,Resolvido,Obrigatória,Fora do prazo,Não
+Sr. Lucas Cunha,Procedimento negado,Consulta com nutricionista,Urgência,2025-05-03,2025-05-21,Em análise,Obrigatória,Fora do prazo,Não
+Ana Laura Fogaça,Cobertura recusada,Ressonância magnética,Urgência,2025-04-01,2025-04-13,Aberto,Obrigatória,Dentro do prazo,Não
+Maria da Cunha,Demora na autorização,Exame de sangue,Eletivo,2025-05-11,2025-06-12,Em análise,Obrigatória,Fora do prazo,Não
+Ester Araújo,Demora na autorização,Exame de sangue,Urgência,2025-06-14,2025-07-10,Aberto,Obrigatória,Fora do prazo,Não
+Mariana Machado,Cobertura recusada,Consulta com clínico geral,Eletivo,2025-04-01,2025-04-20,Em análise,Obrigatória,Fora do prazo,Não
+Luiz Fernando Fernandes,Cobrança indevida,Consulta com nutricionista,Urgência,2025-06-18,2025-06-26,Resolvido,Obrigatória,Dentro do prazo,Não
+Caio Peixoto,Procedimento negado,Terapia ocupacional,Urgência,2025-04-26,2025-05-21,Aberto,Obrigatória,Fora do prazo,Não
+Larissa Novais,Cobertura recusada,Fisioterapia ortopédica,Eletivo,2025-05-18,2025-05-21,Aberto,Obrigatória,Dentro do prazo,Não
+Vicente Cardoso,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-06-08,2025-06-19,Resolvido,Obrigatória,Fora do prazo,Não
+Manuella Lima,Cobertura recusada,Terapia ocupacional,Urgência,2025-05-25,2025-05-27,Em análise,Obrigatória,Dentro do prazo,Não
+Maria Fernanda Pinto,Cobrança indevida,Transplante capilar,Urgência,2025-05-19,2025-06-18,Aberto,Não obrigatória,Dentro do prazo,Sim
+Bella Silveira,Cobrança indevida,Transplante capilar,Eletivo,2025-04-12,2025-04-25,Em análise,Não obrigatória,Dentro do prazo,Sim
+Lucas Montenegro,Erro de reembolso,Exame de sangue,Urgência,2025-04-18,2025-05-15,Resolvido,Obrigatória,Fora do prazo,Não
+Maria Flor Peixoto,Erro de reembolso,Transplante capilar,Eletivo,2025-04-20,2025-05-20,Aberto,Não obrigatória,Dentro do prazo,Sim
+Emilly da Conceição,Cobertura recusada,Exame de sangue,Urgência,2025-05-16,2025-06-24,Resolvido,Obrigatória,Fora do prazo,Não
+Manuela Costa,Demora na autorização,Cirurgia plástica estética,Urgência,2025-03-28,2025-04-30,Em análise,Opcional,Dentro do prazo,Sim
+Maria Helena Nascimento,Procedimento negado,Terapia ocupacional,Urgência,2025-05-25,2025-05-29,Em análise,Obrigatória,Dentro do prazo,Não
+Eduardo Borges,Cobertura recusada,Exame de sangue,Eletivo,2025-05-19,2025-05-24,Em análise,Obrigatória,Fora do prazo,Não
+Dr. Gustavo Brito,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-03-25,2025-05-03,Em análise,Opcional,Dentro do prazo,Sim
+Sr. Theodoro Cirino,Cobertura recusada,Ressonância magnética,Eletivo,2025-06-16,2025-07-12,Resolvido,Obrigatória,Fora do prazo,Não
+Josué Pimenta,Cobertura recusada,Consulta com clínico geral,Eletivo,2025-04-14,2025-04-23,Aberto,Obrigatória,Fora do prazo,Não
+João Miguel Porto,Cobertura recusada,Fisioterapia ortopédica,Urgência,2025-04-11,2025-04-25,Aberto,Obrigatória,Fora do prazo,Não
+Sr. Lucca Souza,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-03-27,2025-04-13,Aberto,Obrigatória,Fora do prazo,Não
+Ester Nunes,Demora na autorização,Consulta com clínico geral,Urgência,2025-04-11,2025-04-28,Resolvido,Obrigatória,Fora do prazo,Não
+Daniela Rezende,Erro de reembolso,Consulta com clínico geral,Eletivo,2025-04-05,2025-04-14,Resolvido,Obrigatória,Fora do prazo,Não
+Isabella Nascimento,Demora na autorização,Cirurgia plástica estética,Eletivo,2025-03-29,2025-05-07,Resolvido,Opcional,Dentro do prazo,Sim
+Eduarda Jesus,Erro de reembolso,Consulta com clínico geral,Eletivo,2025-05-02,2025-06-11,Em análise,Obrigatória,Fora do prazo,Não
+Mathias Pires,Cobertura recusada,Consulta com clínico geral,Eletivo,2025-04-26,2025-06-05,Em análise,Obrigatória,Fora do prazo,Não
+Calebe Azevedo,Erro de reembolso,Transplante capilar,Eletivo,2025-06-22,2025-07-21,Aberto,Não obrigatória,Dentro do prazo,Sim
+Benjamin Vargas,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-05-19,2025-06-01,Em análise,Opcional,Dentro do prazo,Sim
+Bianca Fernandes,Erro de reembolso,Exame de sangue,Eletivo,2025-05-08,2025-05-29,Em análise,Obrigatória,Fora do prazo,Não
+Aylla Gonçalves,Cobertura recusada,Ressonância magnética,Urgência,2025-04-10,2025-04-13,Em análise,Obrigatória,Dentro do prazo,Não
+Srta. Maria Sophia Guerra,Cobrança indevida,Cirurgia plástica estética,Eletivo,2025-06-21,2025-06-29,Resolvido,Opcional,Dentro do prazo,Sim
+Oliver Guerra,Demora na autorização,Consulta com nutricionista,Eletivo,2025-05-29,2025-05-30,Aberto,Obrigatória,Dentro do prazo,Não
+Vinícius Lima,Demora na autorização,Transplante capilar,Urgência,2025-05-20,2025-06-23,Em análise,Não obrigatória,Dentro do prazo,Sim
+Ana Luiza da Paz,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-04-17,2025-04-26,Resolvido,Opcional,Dentro do prazo,Sim
+Luigi Aparecida,Cobertura recusada,Consulta com clínico geral,Urgência,2025-05-30,2025-06-20,Aberto,Obrigatória,Fora do prazo,Não
+Luiz Gustavo Machado,Procedimento negado,Terapia ocupacional,Urgência,2025-06-20,2025-07-06,Resolvido,Obrigatória,Fora do prazo,Não
+Cauê Vasconcelos,Cobertura recusada,Exame de sangue,Urgência,2025-03-25,2025-05-02,Em análise,Obrigatória,Fora do prazo,Não
+Stephany Jesus,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-04-24,2025-05-26,Aberto,Obrigatória,Fora do prazo,Não
+Sr. Theodoro Câmara,Cobrança indevida,Cirurgia plástica estética,Eletivo,2025-05-24,2025-05-30,Em análise,Opcional,Dentro do prazo,Sim
+Dr. Emanuel Nascimento,Cobertura recusada,Consulta com nutricionista,Urgência,2025-05-24,2025-06-10,Aberto,Obrigatória,Fora do prazo,Não
+Joaquim Viana,Procedimento negado,Consulta com clínico geral,Urgência,2025-06-06,2025-07-16,Aberto,Obrigatória,Fora do prazo,Não
+Maria Helena da Rocha,Demora na autorização,Transplante capilar,Urgência,2025-04-30,2025-05-26,Em análise,Não obrigatória,Dentro do prazo,Sim
+Olivia Cavalcanti,Cobrança indevida,Cirurgia plástica estética,Urgência,2025-04-17,2025-04-21,Resolvido,Opcional,Dentro do prazo,Sim
+Maria Julia Cavalcante,Cobertura recusada,Transplante capilar,Eletivo,2025-05-22,2025-06-13,Em análise,Não obrigatória,Dentro do prazo,Sim
+Kamilly Dias,Cobrança indevida,Consulta com clínico geral,Eletivo,2025-06-21,2025-07-22,Resolvido,Obrigatória,Fora do prazo,Não
+Vitor Silva,Procedimento negado,Terapia ocupacional,Eletivo,2025-05-07,2025-06-08,Resolvido,Obrigatória,Fora do prazo,Não
+Srta. Helena Farias,Procedimento negado,Fisioterapia ortopédica,Urgência,2025-04-30,2025-05-17,Aberto,Obrigatória,Fora do prazo,Não
+Sra. Hellena Vasconcelos,Demora na autorização,Consulta com nutricionista,Urgência,2025-04-14,2025-05-08,Em análise,Obrigatória,Fora do prazo,Não
+Heitor Santos,Procedimento negado,Terapia ocupacional,Urgência,2025-04-22,2025-05-26,Aberto,Obrigatória,Fora do prazo,Não
+Daniel Carvalho,Demora na autorização,Terapia ocupacional,Urgência,2025-05-09,2025-05-13,Aberto,Obrigatória,Dentro do prazo,Não
+Ísis Cavalcanti,Cobrança indevida,Exame de sangue,Eletivo,2025-03-26,2025-04-20,Aberto,Obrigatória,Fora do prazo,Não
+Bento Costa,Erro de reembolso,Ressonância magnética,Eletivo,2025-04-08,2025-04-20,Aberto,Obrigatória,Dentro do prazo,Não
+Mathias Sales,Demora na autorização,Fisioterapia ortopédica,Urgência,2025-04-15,2025-05-06,Resolvido,Obrigatória,Fora do prazo,Não
+Nicole Caldeira,Demora na autorização,Transplante capilar,Urgência,2025-04-28,2025-05-03,Em análise,Não obrigatória,Dentro do prazo,Sim
+Gael da Rosa,Demora na autorização,Terapia ocupacional,Urgência,2025-04-15,2025-05-20,Aberto,Obrigatória,Fora do prazo,Não
+Aylla Nascimento,Procedimento negado,Terapia ocupacional,Urgência,2025-04-28,2025-05-18,Em análise,Obrigatória,Fora do prazo,Não
+Natália Pires,Demora na autorização,Transplante capilar,Eletivo,2025-04-17,2025-04-28,Em análise,Não obrigatória,Dentro do prazo,Sim
+Rafael Teixeira,Cobertura recusada,Transplante capilar,Eletivo,2025-05-16,2025-05-29,Em análise,Não obrigatória,Dentro do prazo,Sim
+Enrico Siqueira,Erro de reembolso,Ressonância magnética,Urgência,2025-06-12,2025-06-30,Em análise,Obrigatória,Dentro do prazo,Não
+Ian Correia,Demora na autorização,Fisioterapia ortopédica,Urgência,2025-05-15,2025-06-19,Em análise,Obrigatória,Fora do prazo,Não
+Francisco da Rosa,Procedimento negado,Consulta com nutricionista,Eletivo,2025-05-25,2025-07-01,Aberto,Obrigatória,Fora do prazo,Não
+Gabrielly Rezende,Erro de reembolso,Ressonância magnética,Urgência,2025-06-01,2025-07-02,Aberto,Obrigatória,Fora do prazo,Não
+Brenda da Rosa,Cobrança indevida,Consulta com nutricionista,Eletivo,2025-05-15,2025-05-20,Aberto,Obrigatória,Dentro do prazo,Não
+Srta. Lavínia Rezende,Demora na autorização,Exame de sangue,Eletivo,2025-05-15,2025-06-05,Aberto,Obrigatória,Fora do prazo,Não
+Dr. Vicente Mendes,Procedimento negado,Transplante capilar,Urgência,2025-04-05,2025-05-02,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Natália Fernandes,Procedimento negado,Transplante capilar,Eletivo,2025-03-27,2025-04-01,Resolvido,Não obrigatória,Dentro do prazo,Sim
+João Miguel Pires,Demora na autorização,Fisioterapia ortopédica,Urgência,2025-04-30,2025-05-11,Resolvido,Obrigatória,Fora do prazo,Não
+Antonella Cardoso,Procedimento negado,Ressonância magnética,Eletivo,2025-06-20,2025-07-05,Em análise,Obrigatória,Dentro do prazo,Não
+Ana Liz Alves,Cobertura recusada,Ressonância magnética,Urgência,2025-06-17,2025-06-20,Aberto,Obrigatória,Dentro do prazo,Não
+João Barbosa,Cobertura recusada,Terapia ocupacional,Urgência,2025-03-31,2025-04-14,Em análise,Obrigatória,Fora do prazo,Não
+Otto da Rosa,Cobertura recusada,Ressonância magnética,Urgência,2025-06-10,2025-06-18,Em análise,Obrigatória,Dentro do prazo,Não
+Luiz Fernando Lopes,Cobrança indevida,Consulta com nutricionista,Urgência,2025-04-25,2025-05-27,Resolvido,Obrigatória,Fora do prazo,Não
+Zoe Nunes,Cobrança indevida,Exame de sangue,Eletivo,2025-05-02,2025-05-30,Aberto,Obrigatória,Fora do prazo,Não
+Sr. João Vitor Cirino,Cobrança indevida,Transplante capilar,Eletivo,2025-06-14,2025-07-04,Em análise,Não obrigatória,Dentro do prazo,Sim
+Alice Oliveira,Cobertura recusada,Exame de sangue,Eletivo,2025-05-31,2025-07-04,Em análise,Obrigatória,Fora do prazo,Não
+Srta. Ana Cecília Mendes,Demora na autorização,Exame de sangue,Urgência,2025-04-16,2025-04-26,Resolvido,Obrigatória,Fora do prazo,Não
+Luiz Miguel Guerra,Procedimento negado,Cirurgia plástica estética,Urgência,2025-06-13,2025-06-24,Aberto,Opcional,Dentro do prazo,Sim
+Ravy Peixoto,Cobrança indevida,Cirurgia plástica estética,Urgência,2025-05-18,2025-06-19,Em análise,Opcional,Dentro do prazo,Sim
+Théo Moreira,Cobertura recusada,Ressonância magnética,Eletivo,2025-04-30,2025-05-08,Em análise,Obrigatória,Dentro do prazo,Não
+Dr. Apollo Albuquerque,Procedimento negado,Transplante capilar,Eletivo,2025-04-02,2025-04-09,Aberto,Não obrigatória,Dentro do prazo,Sim
+Théo Montenegro,Cobertura recusada,Terapia ocupacional,Eletivo,2025-03-27,2025-04-07,Em análise,Obrigatória,Fora do prazo,Não
+Bernardo Araújo,Cobertura recusada,Terapia ocupacional,Urgência,2025-06-21,2025-07-21,Em análise,Obrigatória,Fora do prazo,Não
+Camila Mendes,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-04-16,2025-05-22,Em análise,Obrigatória,Fora do prazo,Não
+Maria Flor da Mota,Erro de reembolso,Terapia ocupacional,Eletivo,2025-05-24,2025-06-12,Em análise,Obrigatória,Fora do prazo,Não
+Gael Mendonça,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-03-29,2025-04-16,Aberto,Obrigatória,Fora do prazo,Não
+Valentim Moreira,Erro de reembolso,Consulta com clínico geral,Eletivo,2025-03-26,2025-04-01,Aberto,Obrigatória,Dentro do prazo,Não
+Ana Cecília Cirino,Cobertura recusada,Ressonância magnética,Eletivo,2025-05-08,2025-05-24,Resolvido,Obrigatória,Dentro do prazo,Não
+Alícia Garcia,Erro de reembolso,Consulta com nutricionista,Eletivo,2025-04-24,2025-05-09,Aberto,Obrigatória,Fora do prazo,Não
+Samuel Novaes,Demora na autorização,Consulta com clínico geral,Urgência,2025-05-03,2025-05-04,Em análise,Obrigatória,Dentro do prazo,Não
+Thales Brito,Cobertura recusada,Consulta com clínico geral,Eletivo,2025-04-02,2025-04-14,Em análise,Obrigatória,Fora do prazo,Não
+Lucas Abreu,Demora na autorização,Terapia ocupacional,Urgência,2025-05-11,2025-05-13,Resolvido,Obrigatória,Dentro do prazo,Não
+Rodrigo Duarte,Erro de reembolso,Cirurgia plástica estética,Eletivo,2025-05-22,2025-06-01,Resolvido,Opcional,Dentro do prazo,Sim
+Dr. Lucas Fonseca,Cobrança indevida,Cirurgia plástica estética,Eletivo,2025-06-06,2025-06-21,Aberto,Opcional,Dentro do prazo,Sim
+Lara Cunha,Cobrança indevida,Exame de sangue,Eletivo,2025-05-18,2025-06-21,Resolvido,Obrigatória,Fora do prazo,Não
+José Pedro Guerra,Demora na autorização,Exame de sangue,Urgência,2025-04-15,2025-04-24,Em análise,Obrigatória,Fora do prazo,Não
+Sophie Pacheco,Cobertura recusada,Transplante capilar,Urgência,2025-06-15,2025-07-24,Aberto,Não obrigatória,Dentro do prazo,Sim
+Francisco da Cruz,Demora na autorização,Fisioterapia ortopédica,Eletivo,2025-05-25,2025-06-24,Em análise,Obrigatória,Fora do prazo,Não
+Vitor Martins,Cobertura recusada,Consulta com clínico geral,Urgência,2025-05-07,2025-05-13,Aberto,Obrigatória,Dentro do prazo,Não
+Maria Fernanda Borges,Cobertura recusada,Terapia ocupacional,Eletivo,2025-04-14,2025-05-15,Resolvido,Obrigatória,Fora do prazo,Não
+Isabelly Fonseca,Cobertura recusada,Consulta com clínico geral,Eletivo,2025-05-14,2025-06-09,Resolvido,Obrigatória,Fora do prazo,Não
+Sra. Isabelly Albuquerque,Demora na autorização,Cirurgia plástica estética,Eletivo,2025-06-06,2025-06-21,Em análise,Opcional,Dentro do prazo,Sim
+Ana Clara Guerra,Cobrança indevida,Consulta com clínico geral,Eletivo,2025-04-06,2025-04-11,Resolvido,Obrigatória,Dentro do prazo,Não
+Kaique Vargas,Procedimento negado,Cirurgia plástica estética,Urgência,2025-06-06,2025-06-22,Aberto,Opcional,Dentro do prazo,Sim
+Mateus Pimenta,Cobertura recusada,Ressonância magnética,Urgência,2025-04-16,2025-05-13,Aberto,Obrigatória,Fora do prazo,Não
+Asafe Moura,Demora na autorização,Exame de sangue,Urgência,2025-04-26,2025-05-27,Aberto,Obrigatória,Fora do prazo,Não
+Maysa Rodrigues,Procedimento negado,Consulta com nutricionista,Eletivo,2025-05-15,2025-06-13,Em análise,Obrigatória,Fora do prazo,Não
+Sra. Isis da Rosa,Demora na autorização,Consulta com nutricionista,Eletivo,2025-04-11,2025-05-14,Resolvido,Obrigatória,Fora do prazo,Não
+Noah Sales,Procedimento negado,Consulta com nutricionista,Urgência,2025-05-15,2025-05-21,Em análise,Obrigatória,Dentro do prazo,Não
+Kamilly Rezende,Erro de reembolso,Exame de sangue,Eletivo,2025-04-29,2025-05-08,Resolvido,Obrigatória,Fora do prazo,Não
+Marina Dias,Cobertura recusada,Consulta com nutricionista,Eletivo,2025-05-26,2025-05-28,Em análise,Obrigatória,Dentro do prazo,Não
+Sr. Apollo Brito,Demora na autorização,Transplante capilar,Urgência,2025-04-14,2025-05-12,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Marcos Vinicius Jesus,Procedimento negado,Consulta com nutricionista,Urgência,2025-05-04,2025-06-05,Aberto,Obrigatória,Fora do prazo,Não
+Maria Luiza da Cruz,Demora na autorização,Terapia ocupacional,Eletivo,2025-05-19,2025-06-10,Resolvido,Obrigatória,Fora do prazo,Não
+Srta. Anna Liz Silva,Cobrança indevida,Fisioterapia ortopédica,Urgência,2025-05-25,2025-06-21,Em análise,Obrigatória,Fora do prazo,Não
+Davi Mendes,Erro de reembolso,Cirurgia plástica estética,Urgência,2025-04-04,2025-04-18,Aberto,Opcional,Dentro do prazo,Sim
+Bella Garcia,Cobrança indevida,Fisioterapia ortopédica,Eletivo,2025-06-08,2025-07-12,Aberto,Obrigatória,Fora do prazo,Não
+Ana Clara da Paz,Demora na autorização,Ressonância magnética,Eletivo,2025-06-12,2025-07-07,Resolvido,Obrigatória,Fora do prazo,Não
+Enrico Ramos,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-06-12,2025-06-29,Aberto,Opcional,Dentro do prazo,Sim
+Rebeca Castro,Erro de reembolso,Fisioterapia ortopédica,Urgência,2025-06-10,2025-06-27,Resolvido,Obrigatória,Fora do prazo,Não
+Luna Fonseca,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-04-14,2025-05-07,Aberto,Opcional,Dentro do prazo,Sim
+Ayla Pimenta,Demora na autorização,Terapia ocupacional,Urgência,2025-04-04,2025-04-18,Em análise,Obrigatória,Fora do prazo,Não
+Lara Moraes,Procedimento negado,Ressonância magnética,Eletivo,2025-05-03,2025-06-08,Resolvido,Obrigatória,Fora do prazo,Não
+Lara da Paz,Cobrança indevida,Ressonância magnética,Urgência,2025-04-26,2025-05-04,Aberto,Obrigatória,Dentro do prazo,Não
+Cauã da Rosa,Demora na autorização,Transplante capilar,Eletivo,2025-03-25,2025-04-06,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Maria Alice Cassiano,Erro de reembolso,Fisioterapia ortopédica,Urgência,2025-05-21,2025-06-09,Aberto,Obrigatória,Fora do prazo,Não
+Mateus Moura,Procedimento negado,Consulta com nutricionista,Eletivo,2025-03-27,2025-04-12,Aberto,Obrigatória,Fora do prazo,Não
+Davi Lucas Viana,Cobrança indevida,Fisioterapia ortopédica,Urgência,2025-05-24,2025-07-01,Aberto,Obrigatória,Fora do prazo,Não
+Alícia Novais,Procedimento negado,Consulta com clínico geral,Eletivo,2025-05-09,2025-05-18,Aberto,Obrigatória,Fora do prazo,Não
+Dra. Olivia Silva,Cobrança indevida,Consulta com clínico geral,Urgência,2025-04-12,2025-04-25,Resolvido,Obrigatória,Fora do prazo,Não
+Manuella Albuquerque,Demora na autorização,Transplante capilar,Urgência,2025-06-21,2025-07-23,Em análise,Não obrigatória,Dentro do prazo,Sim
+João Pedro Peixoto,Cobertura recusada,Exame de sangue,Eletivo,2025-04-16,2025-05-23,Em análise,Obrigatória,Fora do prazo,Não
+Laís Pereira,Demora na autorização,Consulta com nutricionista,Urgência,2025-04-15,2025-04-25,Resolvido,Obrigatória,Dentro do prazo,Não
+Maria Flor Gonçalves,Cobertura recusada,Ressonância magnética,Urgência,2025-04-29,2025-05-02,Aberto,Obrigatória,Dentro do prazo,Não
+Hellena da Mota,Demora na autorização,Cirurgia plástica estética,Urgência,2025-06-02,2025-07-01,Aberto,Opcional,Dentro do prazo,Sim
+Sra. Maria Nascimento,Cobertura recusada,Fisioterapia ortopédica,Urgência,2025-05-13,2025-05-15,Resolvido,Obrigatória,Dentro do prazo,Não
+Isabelly da Rosa,Cobrança indevida,Consulta com nutricionista,Eletivo,2025-05-03,2025-05-24,Aberto,Obrigatória,Fora do prazo,Não
+Dr. José Rios,Procedimento negado,Transplante capilar,Eletivo,2025-05-21,2025-06-14,Aberto,Não obrigatória,Dentro do prazo,Sim
+Sr. José Miguel Costela,Procedimento negado,Ressonância magnética,Eletivo,2025-06-22,2025-07-22,Em análise,Obrigatória,Fora do prazo,Não
+Josué Lima,Erro de reembolso,Fisioterapia ortopédica,Eletivo,2025-06-14,2025-07-02,Aberto,Obrigatória,Fora do prazo,Não
+Dr. Mathias Cardoso,Cobrança indevida,Transplante capilar,Eletivo,2025-04-21,2025-05-20,Em análise,Não obrigatória,Dentro do prazo,Sim
+Vinícius Abreu,Cobrança indevida,Terapia ocupacional,Eletivo,2025-05-13,2025-06-10,Em análise,Obrigatória,Fora do prazo,Não
+Laís Barbosa,Demora na autorização,Consulta com clínico geral,Eletivo,2025-06-05,2025-07-11,Aberto,Obrigatória,Fora do prazo,Não
+Benjamin Sampaio,Demora na autorização,Cirurgia plástica estética,Urgência,2025-04-18,2025-05-09,Resolvido,Opcional,Dentro do prazo,Sim
+Srta. Sara Cardoso,Erro de reembolso,Cirurgia plástica estética,Urgência,2025-06-12,2025-06-14,Resolvido,Opcional,Dentro do prazo,Sim
+Rodrigo Moraes,Cobertura recusada,Consulta com nutricionista,Eletivo,2025-05-05,2025-05-25,Aberto,Obrigatória,Fora do prazo,Não
+João Felipe Cardoso,Erro de reembolso,Ressonância magnética,Eletivo,2025-04-29,2025-05-21,Resolvido,Obrigatória,Fora do prazo,Não
+Antônio Peixoto,Procedimento negado,Exame de sangue,Urgência,2025-05-06,2025-05-12,Resolvido,Obrigatória,Fora do prazo,Não
+Srta. Luana da Mota,Cobrança indevida,Transplante capilar,Eletivo,2025-05-28,2025-07-04,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Olivia Melo,Erro de reembolso,Consulta com clínico geral,Eletivo,2025-04-23,2025-05-01,Em análise,Obrigatória,Fora do prazo,Não
+Henry Siqueira,Procedimento negado,Exame de sangue,Eletivo,2025-05-16,2025-05-22,Resolvido,Obrigatória,Fora do prazo,Não
+João Felipe da Costa,Cobrança indevida,Fisioterapia ortopédica,Eletivo,2025-05-10,2025-05-11,Em análise,Obrigatória,Dentro do prazo,Não
+Nathan Fonseca,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-06-20,2025-07-29,Em análise,Opcional,Dentro do prazo,Sim
+Beatriz Nunes,Cobrança indevida,Fisioterapia ortopédica,Urgência,2025-06-02,2025-07-02,Aberto,Obrigatória,Fora do prazo,Não
+Rafael Mendes,Cobrança indevida,Consulta com nutricionista,Urgência,2025-03-29,2025-04-11,Em análise,Obrigatória,Dentro do prazo,Não
+Maria Helena Sales,Cobrança indevida,Consulta com clínico geral,Eletivo,2025-04-02,2025-04-29,Em análise,Obrigatória,Fora do prazo,Não
+Laura da Paz,Cobrança indevida,Fisioterapia ortopédica,Eletivo,2025-04-30,2025-05-25,Em análise,Obrigatória,Fora do prazo,Não
+Joaquim Ramos,Procedimento negado,Ressonância magnética,Eletivo,2025-06-19,2025-07-11,Em análise,Obrigatória,Fora do prazo,Não
+Lívia Lopes,Cobertura recusada,Ressonância magnética,Urgência,2025-06-07,2025-06-24,Resolvido,Obrigatória,Dentro do prazo,Não
+Milena Fonseca,Erro de reembolso,Cirurgia plástica estética,Urgência,2025-05-20,2025-06-04,Em análise,Opcional,Dentro do prazo,Sim
+Maria Cecília da Cruz,Erro de reembolso,Cirurgia plástica estética,Eletivo,2025-05-08,2025-05-14,Resolvido,Opcional,Dentro do prazo,Sim
+Levi Peixoto,Cobrança indevida,Fisioterapia ortopédica,Urgência,2025-04-12,2025-05-18,Aberto,Obrigatória,Fora do prazo,Não
+Dr. Davi Miguel da Cruz,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-03-29,2025-05-08,Resolvido,Opcional,Dentro do prazo,Sim
+João Guilherme Nascimento,Cobertura recusada,Transplante capilar,Urgência,2025-05-25,2025-07-03,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Amanda Cavalcanti,Demora na autorização,Transplante capilar,Eletivo,2025-04-30,2025-05-22,Aberto,Não obrigatória,Dentro do prazo,Sim
+Dra. Rebeca Macedo,Cobertura recusada,Fisioterapia ortopédica,Eletivo,2025-04-07,2025-04-14,Resolvido,Obrigatória,Dentro do prazo,Não
+Diego Pinto,Demora na autorização,Ressonância magnética,Urgência,2025-04-21,2025-05-23,Em análise,Obrigatória,Fora do prazo,Não
+Bianca Alves,Procedimento negado,Terapia ocupacional,Urgência,2025-06-08,2025-06-10,Em análise,Obrigatória,Dentro do prazo,Não
+Ayla Pacheco,Procedimento negado,Cirurgia plástica estética,Urgência,2025-05-17,2025-06-08,Resolvido,Opcional,Dentro do prazo,Sim
+Maria Pacheco,Cobertura recusada,Cirurgia plástica estética,Urgência,2025-03-29,2025-04-27,Em análise,Opcional,Dentro do prazo,Sim
+Henry Gabriel Fogaça,Erro de reembolso,Cirurgia plástica estética,Eletivo,2025-05-30,2025-06-11,Resolvido,Opcional,Dentro do prazo,Sim
+Vitória Siqueira,Procedimento negado,Transplante capilar,Eletivo,2025-05-12,2025-06-02,Em análise,Não obrigatória,Dentro do prazo,Sim
+Nina Borges,Cobertura recusada,Fisioterapia ortopédica,Urgência,2025-05-21,2025-06-25,Aberto,Obrigatória,Fora do prazo,Não
+Théo Pires,Procedimento negado,Transplante capilar,Eletivo,2025-04-22,2025-05-10,Em análise,Não obrigatória,Dentro do prazo,Sim
+José Pedro Correia,Procedimento negado,Consulta com clínico geral,Eletivo,2025-06-22,2025-07-23,Resolvido,Obrigatória,Fora do prazo,Não
+Emanuelly Cirino,Demora na autorização,Terapia ocupacional,Urgência,2025-04-08,2025-04-19,Aberto,Obrigatória,Fora do prazo,Não
+Theodoro Albuquerque,Demora na autorização,Consulta com nutricionista,Eletivo,2025-05-01,2025-05-18,Aberto,Obrigatória,Fora do prazo,Não
+Davi Lucca Dias,Erro de reembolso,Ressonância magnética,Eletivo,2025-06-09,2025-07-05,Aberto,Obrigatória,Fora do prazo,Não
+Noah Vargas,Procedimento negado,Cirurgia plástica estética,Urgência,2025-05-20,2025-06-06,Aberto,Opcional,Dentro do prazo,Sim
+Maria Júlia Pereira,Demora na autorização,Transplante capilar,Urgência,2025-06-11,2025-06-18,Aberto,Não obrigatória,Dentro do prazo,Sim
+Ravi Lucca Campos,Procedimento negado,Terapia ocupacional,Urgência,2025-04-28,2025-06-02,Resolvido,Obrigatória,Fora do prazo,Não
+Arthur Miguel Ramos,Cobrança indevida,Consulta com clínico geral,Eletivo,2025-04-30,2025-05-21,Em análise,Obrigatória,Fora do prazo,Não
+Sr. Luiz Gustavo Pimenta,Cobertura recusada,Ressonância magnética,Urgência,2025-05-30,2025-06-01,Em análise,Obrigatória,Dentro do prazo,Não
+Luiz Gustavo Cassiano,Cobrança indevida,Cirurgia plástica estética,Urgência,2025-05-19,2025-06-05,Resolvido,Opcional,Dentro do prazo,Sim
+Ana Beatriz Pereira,Demora na autorização,Fisioterapia ortopédica,Eletivo,2025-05-11,2025-06-11,Em análise,Obrigatória,Fora do prazo,Não
+Caio Guerra,Procedimento negado,Cirurgia plástica estética,Eletivo,2025-06-04,2025-06-28,Aberto,Opcional,Dentro do prazo,Sim
+Calebe Correia,Procedimento negado,Terapia ocupacional,Urgência,2025-06-08,2025-06-18,Em análise,Obrigatória,Dentro do prazo,Não
+João Borges,Erro de reembolso,Cirurgia plástica estética,Urgência,2025-05-02,2025-06-07,Em análise,Opcional,Dentro do prazo,Sim
+Caroline Camargo,Demora na autorização,Terapia ocupacional,Urgência,2025-05-03,2025-05-05,Em análise,Obrigatória,Dentro do prazo,Não
+Olívia Moraes,Erro de reembolso,Fisioterapia ortopédica,Eletivo,2025-04-03,2025-04-14,Aberto,Obrigatória,Fora do prazo,Não
+Elisa Ramos,Cobrança indevida,Cirurgia plástica estética,Eletivo,2025-04-26,2025-05-20,Em análise,Opcional,Dentro do prazo,Sim
+Diego Fonseca,Cobrança indevida,Ressonância magnética,Eletivo,2025-04-28,2025-05-17,Aberto,Obrigatória,Dentro do prazo,Não
+Sr. Breno Alves,Cobertura recusada,Transplante capilar,Eletivo,2025-04-18,2025-05-24,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Catarina Pacheco,Demora na autorização,Exame de sangue,Eletivo,2025-06-07,2025-06-23,Resolvido,Obrigatória,Fora do prazo,Não
+Luiz Gustavo Nogueira,Demora na autorização,Terapia ocupacional,Urgência,2025-06-04,2025-06-20,Resolvido,Obrigatória,Fora do prazo,Não
+Cauã Farias,Cobrança indevida,Fisioterapia ortopédica,Eletivo,2025-06-04,2025-06-15,Resolvido,Obrigatória,Fora do prazo,Não
+Juan Freitas,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-06-04,2025-07-14,Em análise,Opcional,Dentro do prazo,Sim
+Vitor Hugo Freitas,Procedimento negado,Consulta com nutricionista,Eletivo,2025-04-12,2025-05-19,Aberto,Obrigatória,Fora do prazo,Não
+Carlos Eduardo Moraes,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-03-25,2025-04-22,Resolvido,Opcional,Dentro do prazo,Sim
+Catarina Sampaio,Procedimento negado,Consulta com clínico geral,Eletivo,2025-06-03,2025-07-01,Resolvido,Obrigatória,Fora do prazo,Não
+Daniel Lopes,Demora na autorização,Exame de sangue,Urgência,2025-06-19,2025-06-26,Aberto,Obrigatória,Fora do prazo,Não
+Théo Cassiano,Demora na autorização,Terapia ocupacional,Eletivo,2025-05-24,2025-06-03,Resolvido,Obrigatória,Dentro do prazo,Não
+Camila Peixoto,Procedimento negado,Consulta com nutricionista,Eletivo,2025-05-30,2025-07-02,Resolvido,Obrigatória,Fora do prazo,Não
+Danilo Jesus,Cobrança indevida,Transplante capilar,Urgência,2025-04-05,2025-04-20,Em análise,Não obrigatória,Dentro do prazo,Sim
+Vitor Hugo Pires,Cobertura recusada,Exame de sangue,Urgência,2025-04-22,2025-05-12,Resolvido,Obrigatória,Fora do prazo,Não
+João Almeida,Procedimento negado,Ressonância magnética,Eletivo,2025-05-07,2025-05-21,Aberto,Obrigatória,Dentro do prazo,Não
+Rhavi Novaes,Procedimento negado,Consulta com nutricionista,Urgência,2025-05-18,2025-05-22,Resolvido,Obrigatória,Dentro do prazo,Não
+Sra. Mariana Pires,Erro de reembolso,Transplante capilar,Urgência,2025-04-03,2025-04-06,Aberto,Não obrigatória,Dentro do prazo,Sim
+Dr. Caleb Correia,Erro de reembolso,Terapia ocupacional,Eletivo,2025-04-06,2025-04-27,Em análise,Obrigatória,Fora do prazo,Não
+Sr. Pedro Lucas Carvalho,Erro de reembolso,Ressonância magnética,Urgência,2025-06-12,2025-07-21,Em análise,Obrigatória,Fora do prazo,Não
+Manuela Cassiano,Erro de reembolso,Terapia ocupacional,Eletivo,2025-04-27,2025-05-21,Em análise,Obrigatória,Fora do prazo,Não
+Benicio Souza,Procedimento negado,Transplante capilar,Eletivo,2025-04-05,2025-05-15,Aberto,Não obrigatória,Dentro do prazo,Sim
+Henrique Mendonça,Cobrança indevida,Cirurgia plástica estética,Eletivo,2025-05-31,2025-06-28,Em análise,Opcional,Dentro do prazo,Sim
+Zoe Sá,Erro de reembolso,Consulta com nutricionista,Urgência,2025-05-07,2025-05-30,Aberto,Obrigatória,Fora do prazo,Não
+Maria Júlia Nogueira,Erro de reembolso,Ressonância magnética,Eletivo,2025-05-31,2025-06-16,Em análise,Obrigatória,Dentro do prazo,Não
+Dra. Julia Moura,Demora na autorização,Consulta com clínico geral,Urgência,2025-05-03,2025-06-01,Aberto,Obrigatória,Fora do prazo,Não
+Felipe Peixoto,Cobertura recusada,Consulta com nutricionista,Eletivo,2025-03-28,2025-04-11,Aberto,Obrigatória,Dentro do prazo,Não
+Sr. Renan Albuquerque,Cobertura recusada,Consulta com clínico geral,Urgência,2025-04-01,2025-05-02,Aberto,Obrigatória,Fora do prazo,Não
+Evelyn Ribeiro,Procedimento negado,Cirurgia plástica estética,Urgência,2025-05-27,2025-06-04,Resolvido,Opcional,Dentro do prazo,Sim
+Sabrina Almeida,Cobertura recusada,Cirurgia plástica estética,Eletivo,2025-05-07,2025-05-11,Resolvido,Opcional,Dentro do prazo,Sim
+Sophia Cassiano,Procedimento negado,Consulta com clínico geral,Urgência,2025-05-20,2025-06-29,Aberto,Obrigatória,Fora do prazo,Não
+Davi Luiz Vasconcelos,Cobrança indevida,Fisioterapia ortopédica,Eletivo,2025-04-29,2025-05-20,Resolvido,Obrigatória,Fora do prazo,Não
+Alana Cavalcanti,Demora na autorização,Consulta com clínico geral,Eletivo,2025-05-08,2025-06-12,Resolvido,Obrigatória,Fora do prazo,Não
+Gustavo Castro,Procedimento negado,Fisioterapia ortopédica,Eletivo,2025-06-22,2025-07-09,Resolvido,Obrigatória,Fora do prazo,Não
+Gabriel Ferreira,Cobertura recusada,Fisioterapia ortopédica,Eletivo,2025-03-25,2025-04-26,Resolvido,Obrigatória,Fora do prazo,Não
+Valentina Pereira,Procedimento negado,Cirurgia plástica estética,Urgência,2025-05-17,2025-06-12,Resolvido,Opcional,Dentro do prazo,Sim
+Lara Rocha,Erro de reembolso,Exame de sangue,Urgência,2025-06-10,2025-06-21,Aberto,Obrigatória,Fora do prazo,Não
+Sra. Olívia Gomes,Erro de reembolso,Consulta com clínico geral,Urgência,2025-04-23,2025-05-01,Em análise,Obrigatória,Fora do prazo,Não
+Thomas Marques,Procedimento negado,Transplante capilar,Eletivo,2025-04-26,2025-05-10,Aberto,Não obrigatória,Dentro do prazo,Sim
+Mirella Caldeira,Procedimento negado,Ressonância magnética,Eletivo,2025-06-01,2025-06-22,Resolvido,Obrigatória,Dentro do prazo,Não
+Arthur Gabriel Peixoto,Cobrança indevida,Consulta com clínico geral,Urgência,2025-05-06,2025-05-23,Em análise,Obrigatória,Fora do prazo,Não
+Lavínia Mendes,Demora na autorização,Terapia ocupacional,Eletivo,2025-05-07,2025-05-23,Resolvido,Obrigatória,Fora do prazo,Não
+Dr. Renan Albuquerque,Cobertura recusada,Transplante capilar,Urgência,2025-05-23,2025-06-29,Aberto,Não obrigatória,Dentro do prazo,Sim
+Alana da Costa,Demora na autorização,Consulta com clínico geral,Eletivo,2025-06-20,2025-07-13,Em análise,Obrigatória,Fora do prazo,Não
+Calebe Fonseca,Cobrança indevida,Ressonância magnética,Urgência,2025-04-13,2025-04-25,Resolvido,Obrigatória,Dentro do prazo,Não
+Davi Lucca Marques,Demora na autorização,Terapia ocupacional,Urgência,2025-04-20,2025-05-22,Em análise,Obrigatória,Fora do prazo,Não
+Maria Liz Aparecida,Cobrança indevida,Transplante capilar,Eletivo,2025-06-02,2025-06-30,Resolvido,Não obrigatória,Dentro do prazo,Sim
+Dra. Esther da Cunha,Procedimento negado,Fisioterapia ortopédica,Urgência,2025-05-23,2025-06-30,Em análise,Obrigatória,Fora do prazo,Não
+Josué Ferreira,Demora na autorização,Consulta com clínico geral,Urgência,2025-05-18,2025-06-23,Aberto,Obrigatória,Fora do prazo,Não
+Luiz Otávio Fernandes,Demora na autorização,Consulta com nutricionista,Urgência,2025-04-22,2025-05-09,Aberto,Obrigatória,Fora do prazo,Não
+Arthur Martins,Cobertura recusada,Fisioterapia ortopédica,Eletivo,2025-05-01,2025-06-04,Em análise,Obrigatória,Fora do prazo,Não
+Sofia Pereira,Procedimento negado,Consulta com clínico geral,Eletivo,2025-06-12,2025-06-14,Aberto,Obrigatória,Dentro do prazo,Não
+Luiz Otávio Duarte,Demora na autorização,Cirurgia plástica estética,Urgência,2025-04-08,2025-04-09,Em análise,Opcional,Dentro do prazo,Sim
